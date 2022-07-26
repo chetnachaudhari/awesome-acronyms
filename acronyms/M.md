@@ -1,3 +1,4 @@
 # M
 
-**MDM**: Master Data Management
+- **MDM**: Master Data Management
+- **MNC**: Multinational Corporation
