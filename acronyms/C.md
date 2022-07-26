@@ -1,0 +1,14 @@
+# C
+- **CAPEX**: Capital Expenditure
+- **CART**: Classification and Regression Trees
+- **CDM**: Change and Data Management
+- **CLI**: Command Line Interface
+- **COB**: Close of Business
+- **CPI**: Consumer Price Index
+- **CPU**: Central Processing Unit
+- **CPU**: Cost Per Unit
+- **CRM**: Customer Relationship Management
+- **CSS**: Cascading Style Sheets
+- **CSV**: Comma Separated Values
+- **CX**: Customer Experience
+- **CORS**: Cross Origin Resource Sharing
