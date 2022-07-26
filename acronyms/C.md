@@ -1,14 +1,30 @@
 # C
+
+- **CAO**: Chief Accounting Officer
+- **CAO**: Chief Administrative Officer
+- **CAO**: Chief Analytics Officer
 - **CAPEX**: Capital Expenditure
 - **CART**: Classification and Regression Trees
+- **CDAO**: Chief Data and Analytics Officer
 - **CDM**: Change and Data Management
+- **CDO**: Chief Data Officer
+- **CEO**: Chief Executive Officer
+- **CFO**: Chief Financial Officer
+- **CIO**: Chief Information Officer
+- **CIO**: Chief Investment Officer
+- **CISO**: Chief Information Security Officer
 - **CLI**: Command Line Interface
+- **CLO**: Chief Legal Officer
+- **CMO**: Chief Marketing Officer
 - **COB**: Close of Business
+- **COO**: Chief Operating Officer
+- **CORS**: Cross Origin Resource Sharing
 - **CPI**: Consumer Price Index
 - **CPU**: Central Processing Unit
 - **CPU**: Cost Per Unit
 - **CRM**: Customer Relationship Management
+- **CSO**: Chief Security Officer
 - **CSS**: Cascading Style Sheets
 - **CSV**: Comma Separated Values
+- **CTO**: Chief Technology Officer
 - **CX**: Customer Experience
-- **CORS**: Cross Origin Resource Sharing
