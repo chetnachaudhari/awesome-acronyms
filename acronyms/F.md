@@ -1,4 +1,5 @@
 # F
+
 - **FIFO**: First In First Out
 - **FOMO**: Fear of Missing Out
 - **FTE**: Full Time Equivalent

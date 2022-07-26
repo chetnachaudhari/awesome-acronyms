@@ -1,4 +1,5 @@
 # E
+
 - **EDI**: Electronic Data Interchange
 - **EMI**: Equated Monthly Installment
 - **EOB**: End of Business

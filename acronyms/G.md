@@ -1,4 +1,5 @@
 # G
+
 - **GCC**: GNU Compiler Collection
 - **GDPR**: General Data Protection Regulation
 - **GIF**: Graphics Interchange Format
