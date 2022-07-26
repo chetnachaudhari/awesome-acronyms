@@ -7,21 +7,27 @@
 - **CART**: Classification and Regression Trees
 - **CDAO**: Chief Data and Analytics Officer
 - **CDM**: Change and Data Management
+- **CDMP**: Certified Data Management Professional
 - **CDO**: Chief Data Officer
 - **CEO**: Chief Executive Officer
+- **CEP**: Complex event processing
 - **CFO**: Chief Financial Officer
+- **CIF**: Corporate Information Factory
 - **CIO**: Chief Information Officer
 - **CIO**: Chief Investment Officer
 - **CISO**: Chief Information Security Officer
 - **CLI**: Command Line Interface
 - **CLO**: Chief Legal Officer
 - **CMO**: Chief Marketing Officer
+- **CMS**: Content Management System
 - **COB**: Close of Business
 - **COO**: Chief Operating Officer
 - **CORS**: Cross Origin Resource Sharing
+- **COTS**: Commercial of the Shelf
 - **CPI**: Consumer Price Index
 - **CPU**: Central Processing Unit
 - **CPU**: Cost Per Unit
+- **CRD**: Critical Risk Data
 - **CRM**: Customer Relationship Management
 - **CSO**: Chief Security Officer
 - **CSS**: Cascading Style Sheets

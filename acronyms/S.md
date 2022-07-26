@@ -18,3 +18,5 @@
 - **SSH**: Secure shell
 - **SVG**: Scalable Vector Graphics
 - **SSE**: Server Side Encryption
+- **SFIA**: Skills Framework for the Information Age
+- 
