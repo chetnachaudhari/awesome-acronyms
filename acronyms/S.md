@@ -1,8 +1,10 @@
 # S
 
+- **SAS**: Shared Access Signature
 - **SATA**: Serial Advanced Technology Attachment
 - **SDK**: Software Development Kit
 - **SEO**: Search Engine Optimisation
+- **SFIA**: Skills Framework for the Information Age
 - **SFTP**: Secure File Transfer Protocol
 - **SKU**: Stock Keeping Unit
 - **SLA**: Service Level Agreement
@@ -15,8 +17,6 @@
 - **SOA**: Service Oriented Architeture
 - **SOW**: Statement of Work
 - **SQL**: Structured Query Language
+- **SSE**: Server Side Encryption
 - **SSH**: Secure shell
 - **SVG**: Scalable Vector Graphics
-- **SSE**: Server Side Encryption
-- **SFIA**: Skills Framework for the Information Age
-- 
