@@ -17,6 +17,7 @@
 - **SOA**: Service Oriented Architeture
 - **SOW**: Statement of Work
 - **SQL**: Structured Query Language
+- **SSD**: Solid State Drives
 - **SSE**: Server Side Encryption
 - **SSH**: Secure shell
 - **SVG**: Scalable Vector Graphics

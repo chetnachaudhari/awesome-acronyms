@@ -6,6 +6,7 @@
 - **NAT**: Network Address Translation 
 - **NFS**: Network File System
 - **NIC**: Network Interface Card
+- **NIC**: Network Interface Controllers
 - **NLP**: Natural Language Processing
 - **NLP**: Network Layer Protocol
 - **NPS**: Net Promoter Score
