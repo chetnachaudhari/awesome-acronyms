@@ -1,5 +1,6 @@
 # E
 
+- **EA**: Enterprise Architecture
 - **EDI**: Electronic Data Interchange
 - **EMI**: Equated Monthly Installment
 - **EOB**: End of Business
@@ -7,3 +8,4 @@
 - **ERP**: Enterprise Resource Planning
 - **ETA**: Estimated Time of Arrival
 - **ETL**: Extract Transform Load
+- **EPC**: Event-Driven Process Chain

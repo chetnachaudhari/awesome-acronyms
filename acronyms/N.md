@@ -10,3 +10,4 @@
 - **NLP**: Natural Language Processing
 - **NLP**: Network Layer Protocol
 - **NPS**: Net Promoter Score
+- **NPV**: Net Present Value

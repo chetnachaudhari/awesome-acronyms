@@ -34,3 +34,4 @@
 - **CSV**: Comma Separated Values
 - **CTO**: Chief Technology Officer
 - **CX**: Customer Experience
+- **CMM**: Capability Maturity Model

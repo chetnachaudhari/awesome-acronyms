@@ -6,3 +6,4 @@
 - **AES**: Advanced Encryption Standard
 - **AI**: Artificial Intelligence
 - **AWS**: Amazon Web Services
+- **AIE**: Applied Information Economics

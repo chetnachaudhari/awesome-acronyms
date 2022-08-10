@@ -12,3 +12,6 @@
 - **BRD**: Business Requirements Document
 - **BRR**: Business Readiness Rating
 - **BU**: Business Unit
+- **BVI**: Business Value Index
+- **BMM**: Business Motivation Model
+- **BPMN**: Business Process Modeling Notation
